@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuestionTest</string>
+    <string name="true_button">正确</string>
+    <string name="false_button">错误</string>
+    <string name="last_button">上一题</string>
+    <string name="next_button">下一题</string>
+    <string name="correct_toast">回答正确！</string>
+    <string name="incorrect_toast">回答错误！</string>
+    <string name="question_GD">广东在中国南部</string>
+    <string name="question_SZ">深圳属于广东省</string>
+    <string name="question_FS">深圳可以搭地铁到佛山</string>
+    <string name="question_GZ">广州是广东省省会</string>
+    <string name="question_DG">东莞在深圳南边</string>
+</resources>
